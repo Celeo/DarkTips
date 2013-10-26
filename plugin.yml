@@ -1,0 +1,9 @@
+name: DarkTips
+version: 0.1.0.4
+author: Celeo
+description: A plugin that displays random tips from a list for players
+main: com.darktidegames.celeo.DarkTips
+commands:
+  darktips:
+    usage: /<command> [new|list|save|reload]
+    description: Commands for the plugin
